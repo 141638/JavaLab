@@ -1,11 +1,10 @@
-
-import java.util.LinkedList;
-import java.util.Random;
-
 /**
  *
  * @author 141638
  */
+import java.util.LinkedList;
+import java.util.Random;
+
 public class main {
 
     public static void main(String[] args) {
