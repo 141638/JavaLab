@@ -23,5 +23,4 @@ public class CheckInput {
         while(true);
         return c;
     }
- 
 }
