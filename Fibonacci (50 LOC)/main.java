@@ -1,4 +1,7 @@
-
+/**
+ *
+ * @author 141638
+ */
 public class main {
 
     static int fib(int n) { 
